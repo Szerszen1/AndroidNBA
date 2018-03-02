@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Projekt_Wyniki_NBA</string>
+    <string name="action_settings">Settings</string>
+    <string name="lakers">Los Angeles Lakers</string>
+    <string name="title_activity_lakers">LakersActivity</string>
+    <string name="title_activity_houston">HoustonActivity</string>
+    <string name="title_activity_warriors">WarriorsActivity</string>
+    <string name="title_activity_thunder">ThunderActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_test">testActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+</resources>
