@@ -20,20 +20,24 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".LakersActivity"
-            android:label="@string/title_activity_lakers"
+            android:name=".TestActivity"
+            android:label="@string/title_activity_test"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".HoustonActivity"
-            android:label="@string/title_activity_houston"
+            android:name=".WarriorsActivity"
+            android:label="@string/title_activity_warriors"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".ThunderActivity"
             android:label="@string/title_activity_thunder"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".WarriorsActivity"
-            android:label="@string/title_activity_warriors"
+            android:name=".HoustonActivity"
+            android:label="@string/title_activity_houston"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LakersActivity"
+            android:label="@string/title_activity_lakers"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
