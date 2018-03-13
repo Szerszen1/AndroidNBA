@@ -38,7 +38,7 @@
         <activity
             android:name=".LakersActivity"
             android:label="@string/title_activity_lakers"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>
